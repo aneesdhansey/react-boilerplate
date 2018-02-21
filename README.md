@@ -1,5 +1,5 @@
-# Expensify
-Expensify app
+# React Starter
+React Starter App
 
 ## Instructions
 Clone the repo
